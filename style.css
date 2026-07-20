@@ -1,0 +1,19 @@
+        @charset "UTF-8";
+
+        body{
+            background-color: lightgoldenrodyellow;
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            font-size: 20px;
+            font-weight: 600;
+        }
+        h1{
+            color: rgb(232, 248, 4);
+            background-color: rgb(228, 166, 12);
+            
+        }
+        h2{
+            color: darkred;
+        }
+        p{
+            text-align: justify;
+        }
