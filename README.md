@@ -19,7 +19,7 @@ git diff
 - mostra o que foi alterado
 - o que tem de alteração na ramificação
 
-git merge
+git merge <nome_branch>
 - merge de ramificações, mesclagem
 
 git branch
